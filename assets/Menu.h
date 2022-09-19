@@ -70,6 +70,8 @@ void menu()
                 cout << "          |    4.HEX     |" << endl;
                 cout << "          | ESC to close |" << endl;
                 cout << "          ================" << endl;
+
+
                 null_menu = _getch();
                 break;
                
@@ -86,6 +88,8 @@ void menu()
                 cout << "          |    4.HEX     |" << endl;
                 cout << "          | ESC to close |" << endl;
                 cout << "          ================" << endl;
+
+
                 null_menu = _getch();
                 break;
                 
@@ -102,6 +106,8 @@ void menu()
                 cout << "          |    4.HEX     |" << endl;
                 cout << "          | ESC to close |" << endl;
                 cout << "          ================" << endl;
+
+
                 null_menu = _getch();
                 break;
                
@@ -118,6 +124,8 @@ void menu()
                 cout << "          |  ->4.HEX<-   |" << endl;
                 cout << "          | ESC to close |" << endl;
                 cout << "          ================" << endl;
+
+
                 null_menu = _getch();
                 break;
                
